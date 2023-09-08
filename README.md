@@ -1,32 +1,32 @@
-# My Simple Website
+<h1 align="center">My Awesome Website</h1>
 
-A straightforward website showcasing my HTML and CSS skills.
+<p align="center">
+  <img src="https://img.icons8.com/fluent/48/000000/star.png" alt="Stars" />
+</p>
 
-## Table of Contents
+<p align="center">
+  A stunning website showcasing my HTML and CSS skills.
+</p>
 
-- [Features](#features)
-- [Technologies](#technologies)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/checkmark--v1.png" alt="Checkmark" />
+  <strong>Clean Design</strong> |
+  <img src="https://img.icons8.com/color/48/000000/checkmark--v1.png" alt="Checkmark" />
+  <strong>Responsive Layout</strong> |
+  <img src="https://img.icons8.com/color/48/000000/checkmark--v1.png" alt="Checkmark" />
+  <strong>Smooth Animations</strong>
+</p>
 
-## Features
+## 🚀 Technologies Used
 
-- Clean and minimalistic design
-- Responsive layout
-- CSS animations
+- ![HTML5](https://img.icons8.com/color/48/000000/html-5--v1.png) HTML5
+- ![CSS3](https://img.icons8.com/color/48/000000/css3.png) CSS3
+- ![GitHub](https://img.icons8.com/color/48/000000/github--v1.png) GitHub
 
-## Technologies
-
-This project was built using the following technologies and tools:
-
-- ![HTML5](https://img.icons8.com/color/24/000000/html-5--v1.png) HTML5
-- ![CSS3](https://img.icons8.com/color/24/000000/css3.png) CSS3
-
-## Installation
+## 💻 Installation
 
 1. Clone the repository to your local machine:
 
    ```shell
    git clone https://github.com/your-username/your-project.git
+
