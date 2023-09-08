@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x400.png?text=Your+Website+Screenshot" alt="Project Screenshot" />
+  <img src="images/web1.png" alt="Project Screenshot" />
 </p>
 
 ## 🚀 Get Started
