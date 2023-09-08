@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.icons8.com/cotton/100/000000/web-design.png" alt="Web Design" />
+  <img src="images/web1.png" alt="Project Screenshot" />
 </p>
 
 <h1 align="center">My Super Cool Website</h1>
@@ -21,10 +21,6 @@
   <img src="https://img.icons8.com/color/96/000000/html-5--v1.png" alt="HTML5" />
   <img src="https://img.icons8.com/color/96/000000/css3.png" alt="CSS3" />
   <img src="https://img.icons8.com/color/96/000000/github--v1.png" alt="GitHub" />
-</p>
-
-<p align="center">
-  <img src="images/web1.png" alt="Project Screenshot" />
 </p>
 
 ## 🚀 Get Started
