@@ -1,29 +1,31 @@
-<h1 align="center">My Awesome Website</h1>
+<p align="center">
+  <img src="https://img.icons8.com/cotton/100/000000/web-design.png" alt="Web Design" />
+</p>
+
+<h1 align="center">My Super Cool Website</h1>
 
 <p align="center">
-  <img src="https://img.icons8.com/fluent/48/000000/star.png" alt="Stars" />
+  A stunning website showcasing my HTML and CSS skills with a touch of creativity.
 </p>
 
 <p align="center">
-  A stunning website showcasing my HTML and CSS skills.
-</p>
-
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/checkmark--v1.png" alt="Checkmark" />
+  <img src="https://img.icons8.com/color/64/000000/checkmark--v1.png" alt="Checkmark" />
   <strong>Clean Design</strong> |
-  <img src="https://img.icons8.com/color/48/000000/checkmark--v1.png" alt="Checkmark" />
+  <img src="https://img.icons8.com/color/64/000000/checkmark--v1.png" alt="Checkmark" />
   <strong>Responsive Layout</strong> |
-  <img src="https://img.icons8.com/color/48/000000/checkmark--v1.png" alt="Checkmark" />
+  <img src="https://img.icons8.com/color/64/000000/checkmark--v1.png" alt="Checkmark" />
   <strong>Smooth Animations</strong>
 </p>
 
-## 🚀 Technologies Used
+<p align="center">
+  <img src="https://img.icons8.com/color/96/000000/html-5--v1.png" alt="HTML5" />
+  <img src="https://img.icons8.com/color/96/000000/css3.png" alt="CSS3" />
+  <img src="https://img.icons8.com/color/96/000000/github--v1.png" alt="GitHub" />
+</p>
 
-- ![HTML5](https://img.icons8.com/color/48/000000/html-5--v1.png) HTML5
-- ![CSS3](https://img.icons8.com/color/48/000000/css3.png) CSS3
-- ![GitHub](https://img.icons8.com/color/48/000000/github--v1.png) GitHub
+## 🚀 Get Started
 
-## 💻 Installation
+### Installation
 
 1. Clone the repository to your local machine:
 
