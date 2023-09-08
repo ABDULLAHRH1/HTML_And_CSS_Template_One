@@ -23,6 +23,10 @@
   <img src="https://img.icons8.com/color/96/000000/github--v1.png" alt="GitHub" />
 </p>
 
+<p align="center">
+  <img src="https://via.placeholder.com/800x400.png?text=Your+Website+Screenshot" alt="Project Screenshot" />
+</p>
+
 ## 🚀 Get Started
 
 ### Installation
@@ -31,4 +35,3 @@
 
    ```shell
    git clone https://github.com/your-username/your-project.git
-
