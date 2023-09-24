@@ -4,13 +4,13 @@
 </p>
 
 <!-- Project Title -->
-<h1 align="center" style="font-size: 48px; color: #333; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);">🚀 My Super Cool Website 🚀</h1>
+<h1 align="center" style="font-size: 48px; color: #333; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2); font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">🚀 My Super Cool Website 🚀</h1>
 
 <!-- Project Description -->
-<p align="center" style="font-size: 24px; color: #666;">Welcome to my stunning website, where creativity meets HTML and CSS expertise.</p>
+<p align="center" style="font-size: 24px; color: #666; font-family: 'Arial', sans-serif;">Welcome to my stunning website, where creativity meets HTML and CSS expertise.</p>
 
 <!-- Key Features -->
-<p align="center" style="font-size: 24px; color: #333; margin-top: 20px;">
+<p align="center" style="font-size: 24px; color: #333; margin-top: 20px; font-family: 'Arial', sans-serif;">
   ✨ Clean Design | 📱 Responsive Layout | 💫 Smooth Animations
 </p>
 
@@ -23,7 +23,7 @@
 </p>
 
 <!-- Personal Note -->
-<p align="center" style="font-size: 24px; color: #666; margin-top: 30px;">
+<p align="center" style="font-size: 24px; color: #666; margin-top: 30px; font-family: 'Arial', sans-serif;">
   👉 Feel free to explore and get inspired by my code! 🚀
 </p>
 
