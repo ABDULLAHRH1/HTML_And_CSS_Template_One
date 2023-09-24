@@ -24,7 +24,7 @@
 
 <!-- Personal Note -->
 <p align="center" style="font-size: 24px; color: #666; margin-top: 30px; font-family: 'Arial', sans-serif;">
-  👉 Feel free to explore and get inspired by my code! 🚀
+  <em>👉 Feel free to explore and get inspired by my code! 🚀</em>
 </p>
 
 ## Get Started
