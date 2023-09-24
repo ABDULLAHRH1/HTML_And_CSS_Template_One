@@ -1,30 +1,29 @@
 <!-- Project Screenshot -->
 <p align="center">
-  <img src="images/web1.png" alt="Project Screenshot" />
+  <img src="images/web1.png" alt="Project Screenshot" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />
 </p>
 
 <!-- Project Title -->
-<h1 align="center" style="font-size: 36px; color: #333;">🚀 My Super Cool Website 🚀</h1>
+<h1 align="center" style="font-size: 48px; color: #333; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);">🚀 My Super Cool Website 🚀</h1>
 
 <!-- Project Description -->
-<p align="center" style="font-size: 18px; color: #666;">
-  Welcome to my stunning website, where creativity meets HTML and CSS expertise.
-</p>
+<p align="center" style="font-size: 24px; color: #666;">Welcome to my stunning website, where creativity meets HTML and CSS expertise.</p>
 
 <!-- Key Features -->
-<p align="center" style="font-size: 18px; color: #666;">
+<p align="center" style="font-size: 24px; color: #333; margin-top: 20px;">
   ✨ Clean Design | 📱 Responsive Layout | 💫 Smooth Animations
 </p>
 
 <!-- Technologies Used -->
 <p align="center">
-  <img src="https://img.icons8.com/color/96/000000/html-5--v1.png" alt="HTML5" width="96" height="96" />
-  <img src="https://img.icons8.com/color/96/000000/css3.png" alt="CSS3" width="96" height="96" />
+  <img src="https://img.icons8.com/color/96/000000/html-5--v1.png" alt="HTML5" width="96" height="96" style="margin: 0 20px;" />
+  <img src="https://img.icons8.com/color/96/000000/css3.png" alt="CSS3" width="96" height="96" style="margin: 0 20px;" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="96" height="96" style="margin: 0 20px;" />
+  <img src="https://img.icons8.com/color/96/000000/javascript--v1.png" alt="JavaScript" width="96" height="96" style="margin: 0 20px;" />
 </p>
 
 <!-- Personal Note -->
-<p align="center" style="font-size: 18px; color: #666;">
+<p align="center" style="font-size: 24px; color: #666; margin-top: 30px;">
   👉 Feel free to explore and get inspired by my code! 🚀
 </p>
 
